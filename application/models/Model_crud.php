@@ -1,7 +1,4 @@
 <?php
-/**
-* 
-*/
 class Model_crud extends ci_model
 {
 	
